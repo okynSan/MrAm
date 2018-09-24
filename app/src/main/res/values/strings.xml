@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MrAm</string>
+    <string name="name">\@string</string>
+    <string name="autorization">Авторизация</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="badcreditionals">Збой входа</string>
+</resources>

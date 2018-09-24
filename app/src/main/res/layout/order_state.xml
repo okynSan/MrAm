@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/orderState"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#00cf6b"
+        android:gravity="center"
+        android:paddingBottom="24.5dp"
+        android:paddingLeft="138dp"
+        android:paddingRight="114dp"
+        android:paddingTop="24.5dp"
+        android:textColor="#ffffff"
+        android:textSize="16sp" />
+
+</LinearLayout>
